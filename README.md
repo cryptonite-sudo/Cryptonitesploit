@@ -1,6 +1,6 @@
-# Cryptonite Toolkit
+# Cryptonite Tool
 
-![Cryptonite]
+Cryptonitesploit
 
 
 ***
@@ -14,8 +14,11 @@ powerful tool for webcams penetration testing.
 
 ***
 
-# Getting started
+# Install
+```
+1.sudo pip3 install -r requirements.txt
 
+2.sudo python3 Cryptonite.py
 
 
 # Cryptonite Tool execution
